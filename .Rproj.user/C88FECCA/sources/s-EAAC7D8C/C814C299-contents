@@ -3,10 +3,12 @@ title: "Policy Paid Internships and Scholarships"
 description: |
   Policy Paid Internships and Scholarships
 output_dir: "docs"
+theme: "my-theme.css"
 navbar:
   right:
     - text: "Home"
       href: home.html
-    - text: "About"
-      href: about.html
+    - text: "Sources"
+      href: sources.html
 output: distill::distill_article
+

@@ -1,22 +1,27 @@
 ---
-title: "Paid Internships and Scholarships"
-image: "paid.jpg"
+title: "Public Policy and Political Science Careers"
+theme: "my-theme.css"
+image: "policy.png"
 links:
-  - label: Paid Internships
-    url: "internships.html"
   - label: Graduate Scholarships
     url: "masters.html"
   - label: Paid PhD Programs
     url: "phd.html"
+  - label: Paid Internships
+    url: "internships.html"
   - label: Summer Research Programs
     url: "research.html"
 output:
   postcards::trestles
 ---
- 
-## About the Website
 
-This website is an access point to find lists of previously offered paid internships, paid summer research programs, and scholarships for continuing education in policy and political science. These lists were last updated Summer of 2022 and are not comprehensive but meant as a jumping off point for you to get started on your own search for opportunities. Know that 
+# Paid Summer Experiences and Scholarships
+\
+\
+
+## Welcome!
+
+Welcome! This website is an access point for undergraduates to find lists of previously offered paid internships, paid summer research programs, and scholarships for continuing education in public policy and political science. These lists were last updated Summer of 2022 and are not comprehensive but meant as a jumping off point for you to get started on your own search for opportunities. No matter your background, a political science and/or public policy career is within reach!
 \
 \
 \
