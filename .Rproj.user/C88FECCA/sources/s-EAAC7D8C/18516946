@@ -1,26 +1,26 @@
 {
-    "id": "E875E3F7",
-    "path": "~/policy-paid-internships-and-graduate-program-scholarships/home.Rmd",
-    "project_path": "home.Rmd",
+    "id": "18516946",
+    "path": "~/policy-paid-internships-and-graduate-program-scholarships/research.Rmd",
+    "project_path": "research.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1653334053431.0,
+    "created": 1653335471273.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 7,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "22,1",
-        "scrollLine": "6"
+        "cursorPosition": "4,2",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1653336381,
+    "lastKnownWriteTime": 1653335629,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1653336381660,
+    "last_content_update": 1653335629623,
     "read_only": false,
     "read_only_alternatives": []
 }
